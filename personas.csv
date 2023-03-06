@@ -1,0 +1,11 @@
+Tipo;DNI;Nombre;Apellidos;telefono;especialidad;horario;peso;edad;fumador;cita
+medico;42456026G;Jaime;Martos;12345;Alergologia;0;;;;
+paciente;65215964Q;Mario;Fernadez;123654;;;60;45;false;Alergologia
+medico;58250428F;Patricia;Perez;789654;Cirugia;1;;;;
+medico;16695688B;Laura;Ramirez;124578;Cardiologia;2;;;;
+paciente;66162988S;Alejandro;Jimenez;968574;;;80;35;true;Cirugia
+paciente;35695521G;Marcos;Alonso;165749;;;24;12;false;Cardiologia
+paciente;83016942Y;Lucía;Manrique;356987;;;55;25;false;Cardiologia
+paciente;75215964Q;Marina;Ochoa;121654;;;89;73;false;Cirugia
+paciente;66166988S;Alejo;Martin;668574;;;78;43;true;Alergologia
+paciente;46166988S;Carla;Azorin;192834;;;20;10;false;Alergologia

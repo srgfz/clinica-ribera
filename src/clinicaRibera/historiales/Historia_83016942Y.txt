@@ -1,0 +1,27 @@
+Ficha del paciente Lucía Manrique (DNI: 83016942Y) 
+ -Informe de la visita: 
+ 	 	visita 1
+
+ 
+-Informe de la visita:  
+ 	 	visita 2
+
+ 
+-Informe de la visita:  
+ 	 	visita 3
+
+ 
+-Informe de la visita:  
+ 	 	visita 4
+
+ 
+-Informe de la visita:  
+ 	 	asdf
+
+ 
+-Informe de la visita:  
+ 	 	asdfer
+
+ 
+-Informe de la visita:  
+ 	 	asdfer
